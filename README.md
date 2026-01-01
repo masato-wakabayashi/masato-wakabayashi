@@ -3,8 +3,6 @@
 ## 🔗 Links
 - Portfolio Site: https://masato-wakabayashi-profile.vercel.app/
 - Contact: https://crowdworks.jp/public/employees/5739345?ref=share_url_wkprofile
-  
----
 
 ## 🧰 Skills
 ### Languages
