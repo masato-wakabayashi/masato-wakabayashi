@@ -1,24 +1,25 @@
-# Masato Wakabayashi
+# 若林 将人（Masato Wakabayashi）｜Portfolio
 
-## スキルセット
-
-### フロントエンド
-- 
-- TypeScript（学習中）/ Vue.js（学習中）
-- JavaScript（2年）
-- HTML（2年） / CSS（2年） / Tailwind CSS（学習中）
-
-### バックエンド
-- Node.js（学習中）/ Express（学習中）
-- Java（3年）/ SpringBoot（3年）
-
-### データベース・インフラ
-- SQLServer（3年）/ T-SQL（1年）
-- Git / GitHub（2年）
+業務課題を「仕組み」で解決するハイブリッドエンジニア（Business + Tech）です。  
+レガシー刷新 / DX推進 / 業務効率化 / クラウド設計〜実装まで、一貫して対応します。
 
 ---
 
-## 個人開発
+## 🔗 Links
+- Portfolio Site: https://masato-wakabayashi-profile.vercel.app/
+- Contact: https://crowdworks.jp/public/employees/5739345?ref=share_url_wkprofile
+  
+---
 
-### 旅行計画シェアアプリ（開発中）
-旅行日程を複数人で共有・調整可能なアプリケーション
+## 🧑‍💻 About
+- **職種**: システムエンジニア / Web開発 / 業務改善
+- **強み**: 非技術部門の要望整理 → 仕様化 → 実装 → 運用までをつなぐ
+- **得意領域**: 業務ツール開発 / Web制作 / クラウド（AWS）/ 自動化（Excel/VBA など）
+
+---
+
+## 🧰 Skills
+### Programming / Web
+- Java / TypeScript / JavaScript / HTML / CSS
+- React / Next.js（使用している場合は追記）
+- API連携 / 業務システム連携
